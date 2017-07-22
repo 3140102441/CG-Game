@@ -1,0 +1,276 @@
+# Blender MTL File: 'None'
+# Material Count: 23
+
+newmtl Sand_070717b
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\Sand_070717b.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\Sand_070717b.tga
+
+newmtl bc_kankyaku_mip
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\bc_kankyaku_mip.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\bc_kankyaku_mip.tga
+
+newmtl bc_spot1
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\bc_spot1.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\bc_spot1.tga
+
+newmtl ef_rainbowRed2
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\ef_rainbowRed2.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\ef_rainbowRed2.tga
+
+newmtl enkei_yama
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\enkei_yama.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\enkei_yama.tga
+
+newmtl hana
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\hana.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\hana.tga
+
+newmtl lc_EleArrowALL
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\lc_EleArrowALL.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\lc_EleArrowALL.tga
+
+newmtl lc_ami
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\lc_ami.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\lc_ami.tga
+
+newmtl lc_block_wall_mip
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\lc_block_wall_mip.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\lc_block_wall_mip.tga
+
+newmtl lc_comp1a_070709_128x256a
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\lc_comp1a_070709_128x256a.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\lc_comp1a_070709_128x256a.tga
+
+newmtl lc_kakyutest_1
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\lc_kakyutest.1.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\lc_kakyutest.1.tga
+
+newmtl lc_kinoko_mip
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\lc_kinoko_mip.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\lc_kinoko_mip.tga
+
+newmtl lc_kusa_kanban_mip
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\lc_kusa_kanban_mip.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\lc_kusa_kanban_mip.tga
+
+newmtl lc_lake
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\lc_lake.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\lc_lake.tga
+
+newmtl lc_popAll_128x1024_mip
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\lc_popAll_128x1024_mip.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\lc_popAll_128x1024_mip.tga
+
+newmtl lc_tatemonoall_071123mip_a
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\lc_tatemonoall_071123mip_a.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\lc_tatemonoall_071123mip_a.tga
+
+newmtl luigi_capall_070607a
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\luigi_capall_070607a.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\luigi_capall_070607a.tga
+
+newmtl mainROAD_all_mip
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\mainROAD_all_mip.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\mainROAD_all_mip.tga
+
+newmtl t_kusa_070712c
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\t_kusa_070712c.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\t_kusa_070712c.tga
+
+newmtl t_tree_otubo
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\t_tree_otubo.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\t_tree_otubo.tga
+
+newmtl t_waki_070712a_mip
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\t_waki_070712a_mip.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\t_waki_070712a_mip.tga
+
+newmtl wire_174186203
+Ns 31.372549
+Ka 0.735967 0.735967 0.735967
+Kd 0.682400 0.729400 0.796100
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl yama
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2gh79l3cbyao-Luigi_Circuit\yama.tga
+map_Ka 2gh79l3cbyao-Luigi_Circuit\\yama.tga
